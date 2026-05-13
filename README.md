@@ -2,6 +2,7 @@
 
 A mobile-first gyroscope-based flight simulator that runs entirely in the browser — no installs, no dependencies.
 
+
 🔗 **[Live Demo](https://zhadowvalker.github.io/gyro-flight-simulator/)**
 
 ## Features
